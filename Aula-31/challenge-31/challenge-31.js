@@ -12,5 +12,5 @@ do curso, para colar o link do pull request do seu repo.
 */
 
 console.log(
-  'https://github.com/ruanvalente/final-challenge-javascript-ninja/pull/2'
+  'https://github.com/lucasvinicyus/-final-challenge-javascript-ninja'
 );

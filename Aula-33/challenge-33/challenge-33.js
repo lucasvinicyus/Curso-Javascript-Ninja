@@ -27,5 +27,5 @@ Depois, envie um pull request no repositório do curso, colocando no console.log
 abaixo a URL do pull request no seu repositório.
 */
 console.log(
-  'https://github.com/ruanvalente/final-challenge-javascript-ninja/pull/4'
+  'https://github.com/lucasvinicyus/-final-challenge-javascript-ninja'
 );

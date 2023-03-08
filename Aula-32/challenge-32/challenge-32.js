@@ -33,5 +33,5 @@ Crie uma branch `challenge-32` no seu projeto, envie um pull request lá e cole 
 do pull request.
 */
 console.log(
-  'https://github.com/ruanvalente/final-challenge-javascript-ninja/pull/3'
+  'https://github.com/lucasvinicyus/-final-challenge-javascript-ninja'
 );
